@@ -32,7 +32,7 @@
     <div align="center">
      <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=Borhenn005&show_icons=true&theme=algolia"/>
       <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Borhenn005&theme=algolia" alt="webDev's Github stats" />
-      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borhenn005&layout=compact&theme=algolia"/>
+      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borhenn005&layout=compact&theme=algolia"/>
       <br>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </div>
