@@ -5,12 +5,12 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=white&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B;I'm+Fatnassi+Borhen;Open+source+enthusiast;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%98%87"></div>
 
 <p align="center">
-  <a href="https://github.com/Borhenn005?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Borhenn005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Borhenn005?tab=followers">
+  <a href="https://github.com/paradax005?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/paradax005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/paradax005?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Borhen005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Borhenn005/">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Borhenn005&label=Profile%20Views%20&color=ff0000&style=for-the-badge"/></a>
+  <a href="https://github.com/paradax005/">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=paradax005&label=Profile%20Views%20&color=ff0000&style=for-the-badge"/></a>
 </p>
 <div align="left">
 
@@ -30,9 +30,9 @@
 
 <p align=center>
     <div align="center">
-     <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=Borhenn005&show_icons=true&theme=algolia"/>
-      <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Borhenn005&theme=algolia" alt="webDev's Github stats" />
-      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borhenn005&layout=compact&theme=algolia"/>
+     <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=paradax005&show_icons=true&theme=algolia"/>
+      <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=paradax005&theme=algolia" alt="webDev's Github stats" />
+      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=algolia"/>
       <br>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </div>
