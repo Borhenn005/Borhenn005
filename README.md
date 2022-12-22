@@ -2,7 +2,7 @@
 <div id="top"></div>
 <p align="center">
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=FA88AF&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B;I'm+Fatnassi+Borhen;Open+source+enthusiast;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%98%87"></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFEFAF&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B;I'm+Fatnassi+Borhen;Open+source+enthusiast;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%98%87"></div>
 
 <p align="center">
   <a href="https://github.com/paradax005?tab=repositories&sort=stargazers">
@@ -52,7 +52,7 @@
     <div align="center">
      <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=paradax005&show_icons=true&theme=algolia"/>
       <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=paradax005&theme=algolia" alt="MobileDev's Github stats" />
-      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=algolia&hide=c,Makefile,Roff,cMake,Shell,JavaScript,html,css"/>
+      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=algolia&hide=Makefile,Roff,cMake,Shell,JavaScript,html,css,c%2B%2B,c&langs_count=6"/>
       <br>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </div>
