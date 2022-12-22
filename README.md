@@ -24,7 +24,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br>
-![Kotlin](https://img.shields.io/badge/kotlin-%23593d88.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%234B275F.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -51,8 +51,8 @@
 <p align=center>
     <div align="center">
      <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=paradax005&show_icons=true&theme=algolia"/>
-      <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=paradax005&theme=algolia" alt="webDev's Github stats" />
-      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=algolia"/>
+      <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=paradax005&theme=algolia" alt="MobileDev's Github stats" />
+      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=algolia&langs_count=6"/>
       <br>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </div>
