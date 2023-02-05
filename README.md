@@ -52,7 +52,7 @@
     <div align="center">
      <img  width = "400px" src ="https://github-readme-stats.vercel.app/api?username=paradax005&show_icons=true&theme=algolia"/>
       <img  width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=paradax005&theme=algolia" alt="MobileDev's Github stats" />
-      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=algolia&hide=Makefile,Roff,cMake,Shell,JavaScript,html,css,c%2B%2B,c&langs_count=6"/>
+      <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradax005&layout=compact&theme=algolia&hide=Makefile,Roff,cMake,Shell,html,css,c%2B%2B,c&langs_count=6"/>
       <br>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </div>
